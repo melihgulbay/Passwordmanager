@@ -1,0 +1,1 @@
+A password manager application capable of securely storing passwords along with associated usernames, website information, and security codes. The app includes robust search functionality and supports import options.
